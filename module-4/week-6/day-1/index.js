@@ -1,4 +1,5 @@
 // Change this file to do something else!
 
-const numberOfStates = 50;
-console.log(numberOfStates);
+for (k = 1 + (3 * 2); k < 15; k++) {
+    console.log(k * 2);
+};
